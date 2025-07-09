@@ -1,0 +1,4 @@
+C:\Users\Samuel\OneDrive\Desktop\300lv\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\OneDrive\Desktop\300lv\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfoInputs.cache
+C:\Users\Samuel\OneDrive\Desktop\300lv\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfo.cs
+C:\Users\Samuel\OneDrive\Desktop\300lv\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.csproj.CoreCompileInputs.cache
